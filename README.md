@@ -42,6 +42,6 @@ To use or contribute to this project, follow these steps:
 ##Links
 <img src="project1.png" width="200" alt="Project Logo 1">
 <img src="project2.png" width="200" alt="Project Logo 2">
-[![Video Demo](project3.png)](https://youtube.com/shorts/rNs4sA1MBFg)
+<img src="project3.png" width="200" alt="Project Logo 2">
 ## Contact
 For questions or inquiries, please contact codewithriza@gmail.com. ✉️
