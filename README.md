@@ -29,7 +29,7 @@ To use or contribute to this project, follow these steps:
 
 2.Install the required libraries and dependencies:
   
-        ```bash
+        
          pip install -r requirements.txt
 3. Run the main application:
 
