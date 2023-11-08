@@ -28,10 +28,9 @@ To use or contribute to this project, follow these steps:
    git clone https://github.com/CODEWITHRIZA/AI-Powered-Waste-Sorting-and-Recycling-Assistant
 
 2.Install the required libraries and dependencies:
-
-
-    ```bash    
-    pip install -r requirements.txt
+  
+        ```bash
+         pip install -r requirements.txt
 3. Run the main application:
 
     ```bash
