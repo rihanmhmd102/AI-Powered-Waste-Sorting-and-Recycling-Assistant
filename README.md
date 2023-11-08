@@ -34,8 +34,8 @@ To use or contribute to this project, follow these steps:
 3. Run the main application:
 
     ```bash
-   Copy code
-   python main.py
+  
+   python3 main.py
 
 ## Future Improvements
 -Integration with IoT devices for smart waste bins that can automatically sort waste.
