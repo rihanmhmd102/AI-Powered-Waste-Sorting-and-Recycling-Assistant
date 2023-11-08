@@ -39,7 +39,6 @@ To use or contribute to this project, follow these steps:
 -Collaboration with local waste management authorities to improve waste collection and recycling infrastructure. 🌟🤖
 <img src="project1.png" width="200" alt="Project Logo 1">
 <img src="project2.png" width="200" alt="Project Logo 2">
-<img src="project3.png" width="200" alt="Project Logo 3">
-[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtube.com/shorts/rNs4sA1MBFg)
+[![Video Demo](project3.png)](https://youtube.com/shorts/rNs4sA1MBFg)
 ## Contact
 For questions or inquiries, please contact codewithriza@gmail.com. ✉️
