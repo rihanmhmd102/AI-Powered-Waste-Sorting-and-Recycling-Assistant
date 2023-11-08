@@ -37,6 +37,9 @@ To use or contribute to this project, follow these steps:
 -Integration with IoT devices for smart waste bins that can automatically sort waste.
 -Gamification elements to encourage recycling, such as leaderboards and rewards.
 -Collaboration with local waste management authorities to improve waste collection and recycling infrastructure. 🌟🤖
+
+
+##Links
 <img src="project1.png" width="200" alt="Project Logo 1">
 <img src="project2.png" width="200" alt="Project Logo 2">
 [![Video Demo](project3.png)](https://youtube.com/shorts/rNs4sA1MBFg)
