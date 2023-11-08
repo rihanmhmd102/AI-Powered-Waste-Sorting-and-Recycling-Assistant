@@ -38,5 +38,9 @@ To use or contribute to this project, follow these steps:
 -Gamification elements to encourage recycling, such as leaderboards and rewards.
 -Collaboration with local waste management authorities to improve waste collection and recycling infrastructure. 🌟🤖
 
+![Project Logo](tree.png)
+![Project Logo](tree.png)
+![Project Logo](tree.png)
+
 ## Contact
 For questions or inquiries, please contact codewithriza@gmail.com. ✉️
