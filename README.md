@@ -1,6 +1,6 @@
 # AI-Powered Waste Sorting and Recycling Assistant
 
-![Project Logo](project.png)
+![Project Logo](tree.png)
 
 ## Overview
 
